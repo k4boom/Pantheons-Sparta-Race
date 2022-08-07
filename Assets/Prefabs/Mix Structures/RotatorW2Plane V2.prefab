@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8872990050663369402
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1641339343075725691, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1641339343075725691, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.0124598
+      objectReference: {fileID: 0}
+    - target: {fileID: 1641339343075725691, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.501374
+      objectReference: {fileID: 0}
+    - target: {fileID: 1641339343075725691, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.551831
+      objectReference: {fileID: 0}
+    - target: {fileID: 1641339343075725691, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1641339343075725691, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1641339343075725691, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1641339343075725691, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1641339343075725691, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1641339343075725691, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1641339343075725691, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2556233450074807478, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_NavMeshData
+      value: 
+      objectReference: {fileID: 23800000, guid: 69a0d58eed745ee4094ad2b9e51e89f0, type: 2}
+    - target: {fileID: 2556233450074807478, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_LayerMask.m_Bits
+      value: 1847
+      objectReference: {fileID: 0}
+    - target: {fileID: 2556233450596709197, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896448340150505692, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 3438772188783746487, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_Height
+      value: 0.8992076
+      objectReference: {fileID: 0}
+    - target: {fileID: 3438772188783746487, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_Center.x
+      value: 0.0006816387
+      objectReference: {fileID: 0}
+    - target: {fileID: 3438772188783746487, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_Center.z
+      value: 0.04744649
+      objectReference: {fileID: 0}
+    - target: {fileID: 3438772189105542362, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_NavMeshData
+      value: 
+      objectReference: {fileID: 23800000, guid: be0c77442893f4b45971587a976c9462, type: 2}
+    - target: {fileID: 3438772189105542362, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_LayerMask.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 3438772190040957373, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_NavMeshData
+      value: 
+      objectReference: {fileID: 23800000, guid: 263492474224b04408eaa147975975d2, type: 2}
+    - target: {fileID: 3438772190040957373, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_LayerMask.m_Bits
+      value: 1847
+      objectReference: {fileID: 0}
+    - target: {fileID: 8821817398580312666, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
+      propertyPath: m_Name
+      value: RotatorW2Plane V2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b05e68acc53fb484c866a3b45125622f, type: 3}
