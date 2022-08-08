@@ -328,6 +328,7 @@ MonoBehaviour:
   sliderValue: 0
   nms: {fileID: 463930440}
   nms2: {fileID: 854905463}
+  drawManager: {fileID: 0}
 --- !u!114 &121362162
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5589,7 +5590,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6490879683967233113, guid: 8071cc36236a43f4fa4f323e1917b9e3, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 28.61
+      value: -1.25
       objectReference: {fileID: 0}
     - target: {fileID: 6490879683967233113, guid: 8071cc36236a43f4fa4f323e1917b9e3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
